@@ -40,4 +40,4 @@ The inventory dashboard project demonstrates practical JavaScript usage for mana
 
 ## Author
 
-Aditya Yadva
+Aditya Yadav
